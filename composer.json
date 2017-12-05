@@ -1,0 +1,16 @@
+{
+    "name": "sharmin/phinx-test",
+    "description": "Phinx Database Migration Test Project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sharminex81",
+            "email": "mimetyshanta@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "robmorgan/phinx": "^0.9.1"
+    }
+}
